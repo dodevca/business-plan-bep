@@ -1,4 +1,4 @@
-# Business Plan BEP Calculator — by Dodevca
+# Business Plan BEP Calculator
 
 ## About This Project
 A web-based application to assist business owners and entrepreneurs in calculating Break-Even Points (BEP) using interactive financial inputs. Built with Python and Streamlit, this tool provides visualizations and simulations to understand business profitability and sensitivity analysis before launching a business.
