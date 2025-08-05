@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter/Colab Notebook
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
