@@ -51,4 +51,4 @@ Interested in collaborating or enhancing this project?
 Reach me at [LinkedIn](https://linkedin.com/in/dodevca) or visit [dodevca.com](https://dodevca.com).
 
 ## Signature
-Initiated by Dodevca, open for collaboration and continuous refinement.
+Initiated by **Dodevca**, open for collaboration and continuous refinement.
