@@ -41,10 +41,10 @@ This project is designed to be run locally. Deployment version can be accessed u
 5. Open your browser and navigate to `http://localhost:8501`.
 
 ## Future Improvements
-- Add multi-scenario projections (best case, worst case, realistic).
-- Integrate database to save analysis sessions.
-- Implement export to PDF feature for business reports.
-- Deploy a live demo version on Streamlit Cloud or custom domain.
+- [ ] Add multi-scenario projections (best case, worst case, realistic).
+- [ ] Integrate database to save analysis sessions.
+- [ ] Implement export to PDF feature for business reports.
+- [ ] Deploy a live demo version on Streamlit Cloud or custom domain.
 
 ## Contact & Collaboration
 Interested in collaborating or enhancing this project?
