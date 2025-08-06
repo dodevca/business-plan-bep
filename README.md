@@ -46,6 +46,13 @@ This project is designed to be run locally. Deployment version can be accessed u
 - [ ] Implement export to PDF feature for business reports.
 - [ ] Deploy a live demo version on Streamlit Cloud or custom domain.
 
+## Contributors
+This project is collaboratively developed by:
+- [Dodevca](https://github.com/dodevca)
+- [adamhuzaini](https://github.com/adamhuzaini)
+- [enggaroktaa](https://github.com/enggaroktaa)
+- [Xtfk](https://github.com/XTFK)
+
 ## Contact & Collaboration
 Interested in collaborating or enhancing this project?
 Reach me at [LinkedIn](https://linkedin.com/in/dodevca) or visit [dodevca.com](https://dodevca.com).
