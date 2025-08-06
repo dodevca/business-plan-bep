@@ -18,7 +18,7 @@ A web-based application to assist business owners and entrepreneurs in calculati
 - Sensitivity analysis with dynamic price range adjustments.
 - Fully interactive sidebar-driven input flow.
 
-## Live Demo (optional)
+## Live Demo
 This project is designed to be run locally. Deployment version can be accessed upon request.
 
 ## Installation and Usage (Local Setup)
